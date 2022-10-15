@@ -4,7 +4,7 @@ from PIL import Image
 
 load_css()
 
-st.write("[![Star](https://img.shields.io/github/stars/yaniv11ray/links.svg?logo=github&style=social)](https://gitHub.com/yaniv11ray/links)")
+st.write("[![Star](https://img.shields.io/github/stars/yaniv11ray/streamlit.svg?logo=github&style=social)](https://gitHub.com/yaniv11ray/streamlit)")
 
 col1, col2, col3 = st.columns(3)
 col2.image(Image.open('dp.png'))
