@@ -32,7 +32,7 @@ col2.image(Image.open('dp.png'))
 
 st.header('Vinay Ray')
 
-st.info(' Technology Lead at Infosys | Production Support Engineer | Data Analyst')
+st.info(' Technology Lead | Production Support Engineer | Data Analyst')
 
 icon_size = 30
 
@@ -54,7 +54,7 @@ st.header('Vinay Ray')
 2. `st.info(B)` is used for speciying a quick description about who you are, what you do, etc. in place of **B**.
 Example:
 ```python
-st.info('Technology Lead at Infosys | Production Support Engineer | Data Analyst')
+st.info('Technology Lead  | Production Support Engineer | Data Analyst')
 ```
 
 3. `st.button(D, E, F, G)` is a custom function for creating link buttons where **D** represents the icon to display (use `youtube` if the play button is to be displayed), **E** represents the URL, **F** represents the message to display on the clickable button and **G** represents the icon size.
