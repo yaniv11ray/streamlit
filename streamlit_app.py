@@ -11,7 +11,7 @@ col2.image(Image.open('dp.png'))
 
 st.header('Vinay Ray')
 
-st.info('Technology Lead at Infosys | Production Support Engineer | Data Analyst')
+st.info('Technology Lead | Production Support Engineer | Data Analyst')
 
 icon_size = 30
 
